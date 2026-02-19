@@ -33,8 +33,7 @@ RUN pip install \
 
 # Clone the TEXTurePaper repository
 WORKDIR /workspace
-RUN git clone https://github.com/TEXTurePaper/TEXTurePaper.git
-WORKDIR /workspace/TEXTurePaper
+COPY . .
 
 # Install project dependencies
 RUN pip install -r requirements.txt
