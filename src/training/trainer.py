@@ -68,14 +68,16 @@ class TEXTure:
         return model
 
     def init_diffusion(self) -> Any:
-        diffusion_model = StableDiffusion(self.device, model_name=self.cfg.guide.diffusion_name,
+        diffusion_model = StableDiffusion(self.device,
+                                          model_name=self.cfg.guide.diffusion_name,
                                           concept_name=self.cfg.guide.concept_name,
                                           concept_path=self.cfg.guide.concept_path,
                                           latent_mode=False,
                                           min_timestep=self.cfg.optim.min_timestep,
                                           max_timestep=self.cfg.optim.max_timestep,
                                           no_noise=self.cfg.optim.no_noise,
-                                          use_inpaint=True)
+                                          use_inpaint=True,
+                                          inpaint_model=self.cfg.guide.inpainting_name)
 
         for p in diffusion_model.parameters():
             p.requires_grad = False
