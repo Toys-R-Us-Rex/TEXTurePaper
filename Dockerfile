@@ -1,6 +1,8 @@
 # Base image: CUDA 11.3 + cuDNN 8 + Ubuntu 20.04
 FROM nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04
 
+LABEL org.opencontainers.image.source=https://github.com/Toys-R-Us-Rex/TEXTurePaper
+
 ENV DEBIAN_FRONTEND=noninteractive
 ENV PYTHONUNBUFFERED=1
 
