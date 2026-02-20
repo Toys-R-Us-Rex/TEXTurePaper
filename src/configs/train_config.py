@@ -45,7 +45,7 @@ class GuideConfig:
     # Path to the TI embedding
     concept_path: Optional[Path] = None
     # A huggingface diffusion model to use
-    diffusion_name: str = 'stabilityai/stable-diffusion-2-depth'
+    diffusion_name: str = 'sd2-community/stable-diffusion-2-depth'
     # Scale of mesh in 1x1x1 cube
     shape_scale: float = 0.6
     # height of mesh
@@ -58,6 +58,8 @@ class GuideConfig:
     guidance_scale: float = 7.5
     # Use inpainting in relevant iterations
     use_inpainting: bool = True
+    # A huggingface inpainting model to use
+    inpainting_name: str = 'sd2-community/stable-diffusion-2-inpainting'
     # The texture before editing
     reference_texture: Optional[Path] = None
     # The edited texture

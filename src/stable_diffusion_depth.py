@@ -18,9 +18,17 @@ from PIL import Image
 
 
 class StableDiffusion(nn.Module):
-    def __init__(self, device, model_name='CompVis/stable-diffusion-v1-4', concept_name=None, concept_path=None,
-                 latent_mode=True,  min_timestep=0.02, max_timestep=0.98, no_noise=False,
-                 use_inpaint=False):
+    def __init__(self,
+                 device,
+                 model_name='CompVis/stable-diffusion-v1-4',
+                 concept_name=None,
+                 concept_path=None,
+                 latent_mode=True,
+                 min_timestep=0.02,
+                 max_timestep=0.98,
+                 no_noise=False,
+                 use_inpaint=False,
+                 inpaint_model='stabilityai/stable-diffusion-2-inpainting'):
         super().__init__()
 
         try:
@@ -57,7 +65,7 @@ class StableDiffusion(nn.Module):
             self.device)
 
         if self.use_inpaint:
-            self.inpaint_unet = UNet2DConditionModel.from_pretrained("stabilityai/stable-diffusion-2-inpainting",
+            self.inpaint_unet = UNet2DConditionModel.from_pretrained(inpaint_model,
                                                                      subfolder="unet", use_auth_token=self.token).to(
                 self.device)
 
