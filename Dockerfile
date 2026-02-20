@@ -42,4 +42,6 @@ RUN pip install -r requirements.txt
 RUN pip install kaolin==0.14.0 \
     -f https://nvidia-kaolin.s3.us-east-2.amazonaws.com/torch-1.12.1_cu113.html
 
+RUN touch TOKEN
+
 CMD ["bash"]
