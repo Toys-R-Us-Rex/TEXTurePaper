@@ -33,14 +33,13 @@ The goal of the research phase is to explore potential solutions for the texture
 Mutliple scenarios are considered :
 
 + The LLM with input [.obj and prompt describing the texture)] output a complete solution (e.g. UV coordinates + texture)
-+ The LLM outputs an intermediate representation (e.g. UV coordinates) and a separate module is responsible for applying the texture on the 3D model
 + The LLM only outputs sides views of the texture and a separate module is responsible for projecting it on the 3D model
 
 Scenario 1 is the one to focus on as it is a complete solution.
 
 = Research
 \
-+ Online research showed that solutions to scenario 1 exists since few years and are commercially available. For example, Scenario's Texture#footnote(link("https://www.scenario.com/blog/ai-texture-generation")) is a web-app that can generate textures from images and apply them to 3D models. However, those web solutions are not open source nor free to use. Thus, researchs have been oriented toward a local solution that can be integrated in our pipeline is necessary.
++ Online research showed that solutions to scenario 1 exists since few years and are commercially available. For example, Scenario's Texture#footnote(link("https://www.scenario.com/blog/ai-texture-generation")) is a web-app that can generate textures from images and apply them to 3D models. However, those web solutions are not open source nor free to use. Thus, researchs has been oriented toward a local solution that can be integrated in our pipeline.
 + A publication : TEXTure: Text-Guided Texturing of 3D Shapes#footnote(link("https://texturepaper.github.io/TEXTurePaper/")) provide potential solution. The paper describes an iterative framework leveraging a pretrained depth-to-image diffusion model to synthesize, edit, and transfer high-fidelity 3D textures. This finding is promising thus to be explored.
 
 = TEXTure exploration
