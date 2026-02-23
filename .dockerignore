@@ -3,3 +3,4 @@ Dockerfile
 TOKEN
 .dockerignore
 shapes
+textures
