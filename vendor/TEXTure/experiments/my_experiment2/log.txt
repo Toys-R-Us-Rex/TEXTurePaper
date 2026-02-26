@@ -1,0 +1,139 @@
+2026-02-23 12:22:44 running xatlas to unwrap UVs for mesh
+2026-02-23 12:27:29 running xatlas to unwrap UVs for mesh
+2026-02-23 12:27:29 Loaded Mesh, #parameters: 6337536
+2026-02-23 12:27:29 TexturedMeshModel()
+2026-02-23 12:27:29 loaded hugging face access token from ./TOKEN!
+2026-02-23 12:27:29 loading stable diffusion with sd2-community/stable-diffusion-2-depth...
+2026-02-23 12:27:36 	 successfully loaded stable diffusion!
+2026-02-23 12:27:36 A photo of a yellow duck, front view
+2026-02-23 12:27:36 None
+2026-02-23 12:27:36 ['A photo of a yellow duck, front view']
+2026-02-23 12:27:36 tensor([[49406,   320,  1125,   539,   320,  4481,  6910,   267,  2184,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 12:27:36 A photo of a yellow duck, left view
+2026-02-23 12:27:36 None
+2026-02-23 12:27:36 ['A photo of a yellow duck, left view']
+2026-02-23 12:27:36 tensor([[49406,   320,  1125,   539,   320,  4481,  6910,   267,  1823,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 12:27:36 A photo of a yellow duck, back view
+2026-02-23 12:27:36 None
+2026-02-23 12:27:36 ['A photo of a yellow duck, back view']
+2026-02-23 12:27:36 tensor([[49406,   320,  1125,   539,   320,  4481,  6910,   267,   893,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 12:27:36 A photo of a yellow duck, right view
+2026-02-23 12:27:36 None
+2026-02-23 12:27:36 ['A photo of a yellow duck, right view']
+2026-02-23 12:27:36 tensor([[49406,   320,  1125,   539,   320,  4481,  6910,   267,  1155,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 12:27:37 A photo of a yellow duck, overhead view
+2026-02-23 12:27:37 None
+2026-02-23 12:27:37 ['A photo of a yellow duck, overhead view']
+2026-02-23 12:27:37 tensor([[49406,   320,  1125,   539,   320,  4481,  6910,   267, 20321,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 12:27:37 A photo of a yellow duck, bottom view
+2026-02-23 12:27:37 None
+2026-02-23 12:27:37 ['A photo of a yellow duck, bottom view']
+2026-02-23 12:27:37 tensor([[49406,   320,  1125,   539,   320,  4481,  6910,   267,  5931,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 12:27:37 phis: [0.0, 45.0, 315.0, 90.0, 270.0, 135.0, 225.0, 180.0]
+2026-02-23 12:27:37 Successfully initialized my_experiment2
+2026-02-23 12:27:37 Starting training ^_^
+2026-02-23 12:27:37 Evaluating and saving model, painting iteration #0...
+2026-02-23 12:27:38 Done!
+2026-02-23 12:27:38 --- Painting step #1 ---
+2026-02-23 12:27:38 Painting from theta: 1.0471975803375244, phi: 0.0, radius: 1.5
+2026-02-23 12:27:39 text: A photo of a yellow duck, front view
+2026-02-23 12:28:08 Evaluating and saving model, painting iteration #1...
+2026-02-23 12:28:10 Done!
+2026-02-23 12:28:10 --- Painting step #2 ---
+2026-02-23 12:28:10 Painting from theta: 1.0471975803375244, phi: 0.7853981852531433, radius: 1.5
+2026-02-23 12:28:10 text: A photo of a yellow duck, left view
+2026-02-23 12:28:38 Evaluating and saving model, painting iteration #2...
+2026-02-23 12:28:39 Done!
+2026-02-23 12:28:39 --- Painting step #3 ---
+2026-02-23 12:28:39 Painting from theta: 1.0471975803375244, phi: 5.497786998748779, radius: 1.5
+2026-02-23 12:28:40 text: A photo of a yellow duck, right view
+2026-02-23 12:29:08 Evaluating and saving model, painting iteration #3...
+2026-02-23 12:29:09 Done!
+2026-02-23 12:29:09 --- Painting step #4 ---
+2026-02-23 12:29:09 Painting from theta: 1.0471975803375244, phi: 1.5707963705062866, radius: 1.5
+2026-02-23 12:29:10 text: A photo of a yellow duck, left view
+2026-02-23 12:29:38 Evaluating and saving model, painting iteration #4...
+2026-02-23 12:29:39 Done!
+2026-02-23 12:29:39 --- Painting step #5 ---
+2026-02-23 12:29:39 Painting from theta: 1.0471975803375244, phi: 4.71238899230957, radius: 1.5
+2026-02-23 12:29:39 text: A photo of a yellow duck, right view
+2026-02-23 12:30:08 Evaluating and saving model, painting iteration #5...
+2026-02-23 12:30:09 Done!
+2026-02-23 12:30:09 --- Painting step #6 ---
+2026-02-23 12:30:09 Painting from theta: 1.0471975803375244, phi: 2.356194496154785, radius: 1.5
+2026-02-23 12:30:10 text: A photo of a yellow duck, left view
+2026-02-23 12:30:38 Evaluating and saving model, painting iteration #6...
+2026-02-23 12:30:40 Done!
+2026-02-23 12:30:40 --- Painting step #7 ---
+2026-02-23 12:30:40 Painting from theta: 1.0471975803375244, phi: 3.9269907474517822, radius: 1.5
+2026-02-23 12:30:40 text: A photo of a yellow duck, right view
+2026-02-23 12:31:09 Evaluating and saving model, painting iteration #7...
+2026-02-23 12:31:10 Done!
+2026-02-23 12:31:10 --- Painting step #8 ---
+2026-02-23 12:31:10 Painting from theta: 1.0471975803375244, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 12:31:10 text: A photo of a yellow duck, back view
+2026-02-23 12:31:39 Evaluating and saving model, painting iteration #8...
+2026-02-23 12:31:40 Done!
+2026-02-23 12:31:40 --- Painting step #9 ---
+2026-02-23 12:31:40 Painting from theta: 0.5235987901687622, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 12:31:41 text: A photo of a yellow duck, overhead view
+2026-02-23 12:32:10 Evaluating and saving model, painting iteration #9...
+2026-02-23 12:32:12 Done!
+2026-02-23 12:32:12 --- Painting step #10 ---
+2026-02-23 12:32:12 Painting from theta: 2.6179938316345215, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 12:32:12 text: A photo of a yellow duck, bottom view
+2026-02-23 12:32:43 Evaluating and saving model, painting iteration #10...
+2026-02-23 12:32:44 Done!
+2026-02-23 12:32:44 Finished Painting ^_^
+2026-02-23 12:32:44 Saving the last result...
+2026-02-23 12:32:44 Evaluating and saving model, painting iteration #10...
+2026-02-23 12:32:56 Done!
+2026-02-23 12:32:56 Saving mesh to experiments/my_experiment2/mesh
+2026-02-23 12:32:57 writing obj mesh to {obj_file}
+2026-02-23 12:32:57 writing vertices {v_np.shape}
+2026-02-23 12:32:57 writing vertices texture coords {vt_np.shape}
+2026-02-23 12:32:57 writing faces {f_np.shape}
+2026-02-23 12:32:57 	Done!
+2026-02-23 12:32:57 	Done!

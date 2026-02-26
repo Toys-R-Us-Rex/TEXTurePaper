@@ -1,0 +1,8 @@
+log:
+  exp_name: Anime duck square
+guide:
+  text: "A cute cartoon duck anime-style, stylized, cel-shaded, high detail, vibrant colors, {} view"
+  append_direction: True
+  shape_path: shapes/ducksq.obj
+optim:
+  seed: 42

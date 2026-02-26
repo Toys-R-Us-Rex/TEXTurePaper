@@ -1,0 +1,138 @@
+2026-02-23 13:34:37 running cached UV maps from cache/duckround/vt.pth
+2026-02-23 13:34:37 Loaded Mesh, #parameters: 6337536
+2026-02-23 13:34:37 TexturedMeshModel()
+2026-02-23 13:34:37 loaded hugging face access token from ./TOKEN!
+2026-02-23 13:34:37 loading stable diffusion with sd2-community/stable-diffusion-2-depth...
+2026-02-23 13:34:43 	 successfully loaded stable diffusion!
+2026-02-23 13:34:43 Red Blue and White Colors, Cartoon like Duck, front view
+2026-02-23 13:34:43 None
+2026-02-23 13:34:43 ['Red Blue and White Colors, Cartoon like Duck, front view']
+2026-02-23 13:34:43 tensor([[49406,   736,  1746,   537,  1579,  5389,   267,  7651,   789,  6910,
+           267,  2184,  1093, 49407,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:34:44 Red Blue and White Colors, Cartoon like Duck, left view
+2026-02-23 13:34:44 None
+2026-02-23 13:34:44 ['Red Blue and White Colors, Cartoon like Duck, left view']
+2026-02-23 13:34:44 tensor([[49406,   736,  1746,   537,  1579,  5389,   267,  7651,   789,  6910,
+           267,  1823,  1093, 49407,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:34:44 Red Blue and White Colors, Cartoon like Duck, back view
+2026-02-23 13:34:44 None
+2026-02-23 13:34:44 ['Red Blue and White Colors, Cartoon like Duck, back view']
+2026-02-23 13:34:44 tensor([[49406,   736,  1746,   537,  1579,  5389,   267,  7651,   789,  6910,
+           267,   893,  1093, 49407,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:34:44 Red Blue and White Colors, Cartoon like Duck, right view
+2026-02-23 13:34:44 None
+2026-02-23 13:34:44 ['Red Blue and White Colors, Cartoon like Duck, right view']
+2026-02-23 13:34:44 tensor([[49406,   736,  1746,   537,  1579,  5389,   267,  7651,   789,  6910,
+           267,  1155,  1093, 49407,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:34:44 Red Blue and White Colors, Cartoon like Duck, overhead view
+2026-02-23 13:34:44 None
+2026-02-23 13:34:44 ['Red Blue and White Colors, Cartoon like Duck, overhead view']
+2026-02-23 13:34:44 tensor([[49406,   736,  1746,   537,  1579,  5389,   267,  7651,   789,  6910,
+           267, 20321,  1093, 49407,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:34:44 Red Blue and White Colors, Cartoon like Duck, bottom view
+2026-02-23 13:34:44 None
+2026-02-23 13:34:44 ['Red Blue and White Colors, Cartoon like Duck, bottom view']
+2026-02-23 13:34:44 tensor([[49406,   736,  1746,   537,  1579,  5389,   267,  7651,   789,  6910,
+           267,  5931,  1093, 49407,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:34:44 phis: [0.0, 45.0, 315.0, 90.0, 270.0, 135.0, 225.0, 180.0]
+2026-02-23 13:34:44 Successfully initialized Tricolor
+2026-02-23 13:34:44 Starting training ^_^
+2026-02-23 13:34:44 Evaluating and saving model, painting iteration #0...
+2026-02-23 13:34:46 Done!
+2026-02-23 13:34:46 --- Painting step #1 ---
+2026-02-23 13:34:46 Painting from theta: 1.0471975803375244, phi: 0.0, radius: 1.5
+2026-02-23 13:34:46 text: Red Blue and White Colors, Cartoon like Duck, front view
+2026-02-23 13:35:16 Evaluating and saving model, painting iteration #1...
+2026-02-23 13:35:17 Done!
+2026-02-23 13:35:17 --- Painting step #2 ---
+2026-02-23 13:35:17 Painting from theta: 1.0471975803375244, phi: 0.7853981852531433, radius: 1.5
+2026-02-23 13:35:17 text: Red Blue and White Colors, Cartoon like Duck, left view
+2026-02-23 13:35:45 Evaluating and saving model, painting iteration #2...
+2026-02-23 13:35:47 Done!
+2026-02-23 13:35:47 --- Painting step #3 ---
+2026-02-23 13:35:47 Painting from theta: 1.0471975803375244, phi: 5.497786998748779, radius: 1.5
+2026-02-23 13:35:47 text: Red Blue and White Colors, Cartoon like Duck, right view
+2026-02-23 13:36:15 Evaluating and saving model, painting iteration #3...
+2026-02-23 13:36:17 Done!
+2026-02-23 13:36:17 --- Painting step #4 ---
+2026-02-23 13:36:17 Painting from theta: 1.0471975803375244, phi: 1.5707963705062866, radius: 1.5
+2026-02-23 13:36:17 text: Red Blue and White Colors, Cartoon like Duck, left view
+2026-02-23 13:36:45 Evaluating and saving model, painting iteration #4...
+2026-02-23 13:36:46 Done!
+2026-02-23 13:36:46 --- Painting step #5 ---
+2026-02-23 13:36:46 Painting from theta: 1.0471975803375244, phi: 4.71238899230957, radius: 1.5
+2026-02-23 13:36:47 text: Red Blue and White Colors, Cartoon like Duck, right view
+2026-02-23 13:37:15 Evaluating and saving model, painting iteration #5...
+2026-02-23 13:37:17 Done!
+2026-02-23 13:37:17 --- Painting step #6 ---
+2026-02-23 13:37:17 Painting from theta: 1.0471975803375244, phi: 2.356194496154785, radius: 1.5
+2026-02-23 13:37:17 text: Red Blue and White Colors, Cartoon like Duck, left view
+2026-02-23 13:37:45 Evaluating and saving model, painting iteration #6...
+2026-02-23 13:37:47 Done!
+2026-02-23 13:37:47 --- Painting step #7 ---
+2026-02-23 13:37:47 Painting from theta: 1.0471975803375244, phi: 3.9269907474517822, radius: 1.5
+2026-02-23 13:37:47 text: Red Blue and White Colors, Cartoon like Duck, right view
+2026-02-23 13:38:16 Evaluating and saving model, painting iteration #7...
+2026-02-23 13:38:17 Done!
+2026-02-23 13:38:17 --- Painting step #8 ---
+2026-02-23 13:38:17 Painting from theta: 1.0471975803375244, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 13:38:18 text: Red Blue and White Colors, Cartoon like Duck, back view
+2026-02-23 13:38:47 Evaluating and saving model, painting iteration #8...
+2026-02-23 13:38:48 Done!
+2026-02-23 13:38:48 --- Painting step #9 ---
+2026-02-23 13:38:48 Painting from theta: 0.5235987901687622, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 13:38:49 text: Red Blue and White Colors, Cartoon like Duck, overhead view
+2026-02-23 13:39:19 Evaluating and saving model, painting iteration #9...
+2026-02-23 13:39:20 Done!
+2026-02-23 13:39:20 --- Painting step #10 ---
+2026-02-23 13:39:20 Painting from theta: 2.6179938316345215, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 13:39:21 text: Red Blue and White Colors, Cartoon like Duck, bottom view
+2026-02-23 13:39:51 Evaluating and saving model, painting iteration #10...
+2026-02-23 13:39:53 Done!
+2026-02-23 13:39:53 Finished Painting ^_^
+2026-02-23 13:39:53 Saving the last result...
+2026-02-23 13:39:53 Evaluating and saving model, painting iteration #10...
+2026-02-23 13:40:05 Done!
+2026-02-23 13:40:05 Saving mesh to experiments/Tricolor/mesh
+2026-02-23 13:40:06 writing obj mesh to {obj_file}
+2026-02-23 13:40:06 writing vertices {v_np.shape}
+2026-02-23 13:40:06 writing vertices texture coords {vt_np.shape}
+2026-02-23 13:40:06 writing faces {f_np.shape}
+2026-02-23 13:40:06 	Done!
+2026-02-23 13:40:06 	Done!

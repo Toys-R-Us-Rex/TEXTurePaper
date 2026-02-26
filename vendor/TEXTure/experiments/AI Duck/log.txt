@@ -1,0 +1,276 @@
+2026-02-23 14:10:56 running cached UV maps from cache/duckround/vt.pth
+2026-02-23 14:10:56 Loaded Mesh, #parameters: 6337536
+2026-02-23 14:10:56 TexturedMeshModel()
+2026-02-23 14:10:56 loaded hugging face access token from ./TOKEN!
+2026-02-23 14:10:56 loading stable diffusion with sd2-community/stable-diffusion-2-depth...
+2026-02-23 14:11:02 	 successfully loaded stable diffusion!
+2026-02-23 14:11:02 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, front view
+2026-02-23 14:11:02 None
+2026-02-23 14:11:02 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, front view']
+2026-02-23 14:11:02 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267,  2184,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 14:11:04 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, left view
+2026-02-23 14:11:04 None
+2026-02-23 14:11:04 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, left view']
+2026-02-23 14:11:04 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267,  1823,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 14:11:04 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, back view
+2026-02-23 14:11:04 None
+2026-02-23 14:11:04 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, back view']
+2026-02-23 14:11:04 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267,   893,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 14:11:04 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, right view
+2026-02-23 14:11:04 None
+2026-02-23 14:11:04 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, right view']
+2026-02-23 14:11:04 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267,  1155,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 14:11:04 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, overhead view
+2026-02-23 14:11:04 None
+2026-02-23 14:11:04 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, overhead view']
+2026-02-23 14:11:04 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267, 20321,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 14:11:05 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, bottom view
+2026-02-23 14:11:05 None
+2026-02-23 14:11:05 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, bottom view']
+2026-02-23 14:11:05 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267,  5931,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 14:11:05 phis: [0.0, 45.0, 315.0, 90.0, 270.0, 135.0, 225.0, 180.0]
+2026-02-23 14:11:05 Successfully initialized AI Duck
+2026-02-23 14:11:05 Starting training ^_^
+2026-02-23 14:11:05 Evaluating and saving model, painting iteration #0...
+2026-02-23 14:11:06 Done!
+2026-02-23 14:11:06 --- Painting step #1 ---
+2026-02-23 14:11:06 Painting from theta: 1.0471975803375244, phi: 0.0, radius: 1.5
+2026-02-23 14:11:06 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, front view
+2026-02-23 14:11:36 Evaluating and saving model, painting iteration #1...
+2026-02-23 14:11:37 Done!
+2026-02-23 14:11:37 --- Painting step #2 ---
+2026-02-23 14:11:37 Painting from theta: 1.0471975803375244, phi: 0.7853981852531433, radius: 1.5
+2026-02-23 14:11:38 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, left view
+2026-02-23 14:12:05 Evaluating and saving model, painting iteration #2...
+2026-02-23 14:12:07 Done!
+2026-02-23 14:12:07 --- Painting step #3 ---
+2026-02-23 14:12:07 Painting from theta: 1.0471975803375244, phi: 5.497786998748779, radius: 1.5
+2026-02-23 14:12:07 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, right view
+2026-02-23 14:12:35 Evaluating and saving model, painting iteration #3...
+2026-02-23 14:12:37 Done!
+2026-02-23 14:12:37 --- Painting step #4 ---
+2026-02-23 14:12:37 Painting from theta: 1.0471975803375244, phi: 1.5707963705062866, radius: 1.5
+2026-02-23 14:12:37 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, left view
+2026-02-23 14:13:05 Evaluating and saving model, painting iteration #4...
+2026-02-23 14:13:07 Done!
+2026-02-23 14:13:07 --- Painting step #5 ---
+2026-02-23 14:13:07 Painting from theta: 1.0471975803375244, phi: 4.71238899230957, radius: 1.5
+2026-02-23 14:13:07 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, right view
+2026-02-23 14:13:35 Evaluating and saving model, painting iteration #5...
+2026-02-23 14:13:37 Done!
+2026-02-23 14:13:37 --- Painting step #6 ---
+2026-02-23 14:13:37 Painting from theta: 1.0471975803375244, phi: 2.356194496154785, radius: 1.5
+2026-02-23 14:13:37 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, left view
+2026-02-23 14:14:05 Evaluating and saving model, painting iteration #6...
+2026-02-23 14:14:07 Done!
+2026-02-23 14:14:07 --- Painting step #7 ---
+2026-02-23 14:14:07 Painting from theta: 1.0471975803375244, phi: 3.9269907474517822, radius: 1.5
+2026-02-23 14:14:07 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, right view
+2026-02-23 14:14:36 Evaluating and saving model, painting iteration #7...
+2026-02-23 14:14:37 Done!
+2026-02-23 14:14:37 --- Painting step #8 ---
+2026-02-23 14:14:37 Painting from theta: 1.0471975803375244, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 14:14:37 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, back view
+2026-02-23 14:15:06 Evaluating and saving model, painting iteration #8...
+2026-02-23 14:15:07 Done!
+2026-02-23 14:15:07 --- Painting step #9 ---
+2026-02-23 14:15:07 Painting from theta: 0.5235987901687622, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 14:15:08 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, overhead view
+2026-02-23 14:15:37 Evaluating and saving model, painting iteration #9...
+2026-02-23 14:15:38 Done!
+2026-02-23 14:15:38 --- Painting step #10 ---
+2026-02-23 14:15:38 Painting from theta: 2.6179938316345215, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 14:15:39 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, bottom view
+2026-02-23 14:16:08 Evaluating and saving model, painting iteration #10...
+2026-02-23 14:16:10 Done!
+2026-02-23 14:16:10 Finished Painting ^_^
+2026-02-23 14:16:10 Saving the last result...
+2026-02-23 14:16:10 Evaluating and saving model, painting iteration #10...
+2026-02-23 14:16:23 Done!
+2026-02-23 14:16:23 Saving mesh to experiments/AI Duck/mesh
+2026-02-23 14:16:23 writing obj mesh to {obj_file}
+2026-02-23 14:16:23 writing vertices {v_np.shape}
+2026-02-23 14:16:23 writing vertices texture coords {vt_np.shape}
+2026-02-23 14:16:23 writing faces {f_np.shape}
+2026-02-23 14:16:23 	Done!
+2026-02-23 14:16:23 	Done!
+2026-02-24 07:20:41 running xatlas to unwrap UVs for mesh
+2026-02-24 07:20:41 Loaded Mesh, #parameters: 6337536
+2026-02-24 07:20:41 TexturedMeshModel()
+2026-02-24 07:20:41 loaded hugging face access token from ./TOKEN!
+2026-02-24 07:20:41 loading stable diffusion with sd2-community/stable-diffusion-2-depth...
+2026-02-24 07:20:49 	 successfully loaded stable diffusion!
+2026-02-24 07:20:49 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, front view
+2026-02-24 07:20:49 None
+2026-02-24 07:20:49 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, front view']
+2026-02-24 07:20:49 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267,  2184,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-24 07:20:50 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, left view
+2026-02-24 07:20:50 None
+2026-02-24 07:20:50 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, left view']
+2026-02-24 07:20:50 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267,  1823,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-24 07:20:50 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, back view
+2026-02-24 07:20:50 None
+2026-02-24 07:20:50 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, back view']
+2026-02-24 07:20:50 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267,   893,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-24 07:20:50 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, right view
+2026-02-24 07:20:50 None
+2026-02-24 07:20:50 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, right view']
+2026-02-24 07:20:50 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267,  1155,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-24 07:20:50 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, overhead view
+2026-02-24 07:20:50 None
+2026-02-24 07:20:50 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, overhead view']
+2026-02-24 07:20:50 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267, 20321,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-24 07:20:50 A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, bottom view
+2026-02-24 07:20:50 None
+2026-02-24 07:20:50 ['A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, bottom view']
+2026-02-24 07:20:50 tensor([[49406,   320,  2242,  7651,  6910,   593,   736,   267,  1746,   267,
+           537,  1579,  5389,   267, 38577,  1993,   267,  7597,   268, 43506,
+           267,  1400,  7657,   267, 14270,  5389,   267,  5931,  1093, 49407,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-24 07:20:50 phis: [0.0, 45.0, 315.0, 90.0, 270.0, 135.0, 225.0, 180.0]
+2026-02-24 07:20:50 Successfully initialized AI Duck
+2026-02-24 07:20:50 Starting training ^_^
+2026-02-24 07:20:50 Evaluating and saving model, painting iteration #0...
+2026-02-24 07:20:52 Done!
+2026-02-24 07:20:52 --- Painting step #1 ---
+2026-02-24 07:20:52 Painting from theta: 1.0471975803375244, phi: 0.0, radius: 1.5
+2026-02-24 07:20:52 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, front view
+2026-02-24 07:21:21 Evaluating and saving model, painting iteration #1...
+2026-02-24 07:21:23 Done!
+2026-02-24 07:21:23 --- Painting step #2 ---
+2026-02-24 07:21:23 Painting from theta: 1.0471975803375244, phi: 0.7853981852531433, radius: 1.5
+2026-02-24 07:21:23 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, left view
+2026-02-24 07:21:51 Evaluating and saving model, painting iteration #2...
+2026-02-24 07:21:52 Done!
+2026-02-24 07:21:52 --- Painting step #3 ---
+2026-02-24 07:21:52 Painting from theta: 1.0471975803375244, phi: 5.497786998748779, radius: 1.5
+2026-02-24 07:21:53 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, right view
+2026-02-24 07:22:21 Evaluating and saving model, painting iteration #3...
+2026-02-24 07:22:22 Done!
+2026-02-24 07:22:22 --- Painting step #4 ---
+2026-02-24 07:22:22 Painting from theta: 1.0471975803375244, phi: 1.5707963705062866, radius: 1.5
+2026-02-24 07:22:22 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, left view
+2026-02-24 07:22:50 Evaluating and saving model, painting iteration #4...
+2026-02-24 07:22:52 Done!
+2026-02-24 07:22:52 --- Painting step #5 ---
+2026-02-24 07:22:52 Painting from theta: 1.0471975803375244, phi: 4.71238899230957, radius: 1.5
+2026-02-24 07:22:52 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, right view
+2026-02-24 07:23:21 Evaluating and saving model, painting iteration #5...
+2026-02-24 07:23:22 Done!
+2026-02-24 07:23:22 --- Painting step #6 ---
+2026-02-24 07:23:22 Painting from theta: 1.0471975803375244, phi: 2.356194496154785, radius: 1.5
+2026-02-24 07:23:22 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, left view
+2026-02-24 07:23:51 Evaluating and saving model, painting iteration #6...
+2026-02-24 07:23:52 Done!
+2026-02-24 07:23:52 --- Painting step #7 ---
+2026-02-24 07:23:52 Painting from theta: 1.0471975803375244, phi: 3.9269907474517822, radius: 1.5
+2026-02-24 07:23:53 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, right view
+2026-02-24 07:24:21 Evaluating and saving model, painting iteration #7...
+2026-02-24 07:24:22 Done!
+2026-02-24 07:24:22 --- Painting step #8 ---
+2026-02-24 07:24:22 Painting from theta: 1.0471975803375244, phi: 3.1415927410125732, radius: 1.5
+2026-02-24 07:24:23 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, back view
+2026-02-24 07:24:51 Evaluating and saving model, painting iteration #8...
+2026-02-24 07:24:53 Done!
+2026-02-24 07:24:53 --- Painting step #9 ---
+2026-02-24 07:24:53 Painting from theta: 0.5235987901687622, phi: 3.1415927410125732, radius: 1.5
+2026-02-24 07:24:53 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, overhead view
+2026-02-24 07:25:22 Evaluating and saving model, painting iteration #9...
+2026-02-24 07:25:24 Done!
+2026-02-24 07:25:24 --- Painting step #10 ---
+2026-02-24 07:25:24 Painting from theta: 2.6179938316345215, phi: 3.1415927410125732, radius: 1.5
+2026-02-24 07:25:24 text: A cute cartoon duck with red, blue, and white colors, stylized, cel-shaded, high detail, vibrant colors, bottom view
+2026-02-24 07:25:54 Evaluating and saving model, painting iteration #10...
+2026-02-24 07:25:55 Done!
+2026-02-24 07:25:55 Finished Painting ^_^
+2026-02-24 07:25:55 Saving the last result...
+2026-02-24 07:25:55 Evaluating and saving model, painting iteration #10...
+2026-02-24 07:26:07 Done!
+2026-02-24 07:26:07 Saving mesh to experiments/AI Duck/mesh
+2026-02-24 07:26:08 writing obj mesh to {obj_file}
+2026-02-24 07:26:08 writing vertices {v_np.shape}
+2026-02-24 07:26:08 writing vertices texture coords {vt_np.shape}
+2026-02-24 07:26:08 writing faces {f_np.shape}
+2026-02-24 07:26:08 	Done!
+2026-02-24 07:26:08 	Done!

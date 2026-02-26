@@ -1,0 +1,214 @@
+2026-02-23 13:06:07 running cached UV maps from cache/duckround/vt.pth
+2026-02-23 13:06:07 Loaded Mesh, #parameters: 6337536
+2026-02-23 13:06:07 TexturedMeshModel()
+2026-02-23 13:06:07 loaded hugging face access token from ./TOKEN!
+2026-02-23 13:06:07 loading stable diffusion with sd2-community/stable-diffusion-2-depth...
+2026-02-23 13:06:13 	 successfully loaded stable diffusion!
+2026-02-23 13:06:13 A photo of a cartoon duck on lava, front view
+2026-02-23 13:06:13 None
+2026-02-23 13:06:13 ['A photo of a cartoon duck on lava, front view']
+2026-02-23 13:06:13 tensor([[49406,   320,  1125,   539,   320,  7651,  6910,   525, 16765,   267,
+          2184,  1093, 49407,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:06:14 A photo of a cartoon duck on lava, left view
+2026-02-23 13:06:14 None
+2026-02-23 13:06:14 ['A photo of a cartoon duck on lava, left view']
+2026-02-23 13:06:14 tensor([[49406,   320,  1125,   539,   320,  7651,  6910,   525, 16765,   267,
+          1823,  1093, 49407,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:06:14 A photo of a cartoon duck on lava, back view
+2026-02-23 13:06:14 None
+2026-02-23 13:06:14 ['A photo of a cartoon duck on lava, back view']
+2026-02-23 13:06:14 tensor([[49406,   320,  1125,   539,   320,  7651,  6910,   525, 16765,   267,
+           893,  1093, 49407,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:06:14 A photo of a cartoon duck on lava, right view
+2026-02-23 13:06:14 None
+2026-02-23 13:06:14 ['A photo of a cartoon duck on lava, right view']
+2026-02-23 13:06:14 tensor([[49406,   320,  1125,   539,   320,  7651,  6910,   525, 16765,   267,
+          1155,  1093, 49407,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:06:14 A photo of a cartoon duck on lava, overhead view
+2026-02-23 13:06:14 None
+2026-02-23 13:06:14 ['A photo of a cartoon duck on lava, overhead view']
+2026-02-23 13:06:14 tensor([[49406,   320,  1125,   539,   320,  7651,  6910,   525, 16765,   267,
+         20321,  1093, 49407,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:06:14 A photo of a cartoon duck on lava, bottom view
+2026-02-23 13:06:14 None
+2026-02-23 13:06:14 ['A photo of a cartoon duck on lava, bottom view']
+2026-02-23 13:06:14 tensor([[49406,   320,  1125,   539,   320,  7651,  6910,   525, 16765,   267,
+          5931,  1093, 49407,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:06:14 phis: [0.0, 45.0, 315.0, 90.0, 270.0, 135.0, 225.0, 180.0]
+2026-02-23 13:06:14 Successfully initialized duck_lava
+2026-02-23 13:06:14 Starting training ^_^
+2026-02-23 13:06:14 Evaluating and saving model, painting iteration #0...
+2026-02-23 13:06:16 Done!
+2026-02-23 13:06:16 --- Painting step #1 ---
+2026-02-23 13:06:16 Painting from theta: 1.0471975803375244, phi: 0.0, radius: 1.5
+2026-02-23 13:06:16 text: A photo of a cartoon duck on lava, front view
+2026-02-23 13:06:46 Evaluating and saving model, painting iteration #1...
+2026-02-23 13:06:47 Done!
+2026-02-23 13:06:47 --- Painting step #2 ---
+2026-02-23 13:06:47 Painting from theta: 1.0471975803375244, phi: 0.7853981852531433, radius: 1.5
+2026-02-23 13:06:48 text: A photo of a cartoon duck on lava, left view
+2026-02-23 13:07:15 Evaluating and saving model, painting iteration #2...
+2026-02-23 13:07:17 Done!
+2026-02-23 13:07:17 --- Painting step #3 ---
+2026-02-23 13:07:17 Painting from theta: 1.0471975803375244, phi: 5.497786998748779, radius: 1.5
+2026-02-23 13:07:17 text: A photo of a cartoon duck on lava, right view
+2026-02-23 13:07:45 Evaluating and saving model, painting iteration #3...
+2026-02-23 13:07:47 Done!
+2026-02-23 13:07:47 --- Painting step #4 ---
+2026-02-23 13:07:47 Painting from theta: 1.0471975803375244, phi: 1.5707963705062866, radius: 1.5
+2026-02-23 13:07:47 text: A photo of a cartoon duck on lava, left view
+2026-02-23 13:08:15 Evaluating and saving model, painting iteration #4...
+2026-02-23 13:08:17 Done!
+2026-02-23 13:08:17 --- Painting step #5 ---
+2026-02-23 13:08:17 Painting from theta: 1.0471975803375244, phi: 4.71238899230957, radius: 1.5
+2026-02-23 13:08:17 text: A photo of a cartoon duck on lava, right view
+2026-02-23 13:08:46 Evaluating and saving model, painting iteration #5...
+2026-02-23 13:08:47 Done!
+2026-02-23 13:08:47 --- Painting step #6 ---
+2026-02-23 13:08:47 Painting from theta: 1.0471975803375244, phi: 2.356194496154785, radius: 1.5
+2026-02-23 13:08:48 text: A photo of a cartoon duck on lava, left view
+2026-02-23 13:09:16 Evaluating and saving model, painting iteration #6...
+2026-02-23 13:09:18 Done!
+2026-02-23 13:09:18 --- Painting step #7 ---
+2026-02-23 13:09:18 Painting from theta: 1.0471975803375244, phi: 3.9269907474517822, radius: 1.5
+2026-02-23 13:09:18 text: A photo of a cartoon duck on lava, right view
+2026-02-23 13:09:46 Evaluating and saving model, painting iteration #7...
+2026-02-23 13:09:48 Done!
+2026-02-23 13:09:48 --- Painting step #8 ---
+2026-02-23 13:09:48 Painting from theta: 1.0471975803375244, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 13:09:48 text: A photo of a cartoon duck on lava, back view
+2026-02-23 13:10:17 Evaluating and saving model, painting iteration #8...
+2026-02-23 13:10:19 Done!
+2026-02-23 13:10:19 --- Painting step #9 ---
+2026-02-23 13:10:19 Painting from theta: 0.5235987901687622, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 13:10:19 text: A photo of a cartoon duck on lava, overhead view
+2026-02-23 13:10:49 Evaluating and saving model, painting iteration #9...
+2026-02-23 13:10:51 Done!
+2026-02-23 13:10:51 --- Painting step #10 ---
+2026-02-23 13:10:51 Painting from theta: 2.6179938316345215, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 13:10:51 text: A photo of a cartoon duck on lava, bottom view
+2026-02-23 13:11:22 Evaluating and saving model, painting iteration #10...
+2026-02-23 13:11:23 Done!
+2026-02-23 13:11:23 Finished Painting ^_^
+2026-02-23 13:11:23 Saving the last result...
+2026-02-23 13:11:23 Evaluating and saving model, painting iteration #10...
+2026-02-23 13:11:36 Done!
+2026-02-23 13:11:36 Saving mesh to experiments/duck_lava/mesh
+2026-02-23 13:11:36 writing obj mesh to {obj_file}
+2026-02-23 13:11:36 writing vertices {v_np.shape}
+2026-02-23 13:11:36 writing vertices texture coords {vt_np.shape}
+2026-02-23 13:11:36 writing faces {f_np.shape}
+2026-02-23 13:11:36 	Done!
+2026-02-23 13:11:36 	Done!
+2026-02-23 13:20:39 running cached UV maps from cache/duckround/vt.pth
+2026-02-23 13:20:39 Loaded Mesh, #parameters: 6337536
+2026-02-23 13:20:39 TexturedMeshModel()
+2026-02-23 13:20:39 loaded hugging face access token from ./TOKEN!
+2026-02-23 13:20:39 loading stable diffusion with sd2-community/stable-diffusion-2-depth...
+2026-02-23 13:20:46 	 successfully loaded stable diffusion!
+2026-02-23 13:20:46 anime-style duck, front view
+2026-02-23 13:20:46 None
+2026-02-23 13:20:46 ['anime-style duck, front view']
+2026-02-23 13:20:46 tensor([[49406,  6469,   268,  1844,  6910,   267,  2184,  1093, 49407,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:20:46 anime-style duck, left view
+2026-02-23 13:20:46 None
+2026-02-23 13:20:46 ['anime-style duck, left view']
+2026-02-23 13:20:46 tensor([[49406,  6469,   268,  1844,  6910,   267,  1823,  1093, 49407,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:20:46 anime-style duck, back view
+2026-02-23 13:20:46 None
+2026-02-23 13:20:46 ['anime-style duck, back view']
+2026-02-23 13:20:46 tensor([[49406,  6469,   268,  1844,  6910,   267,   893,  1093, 49407,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:20:47 anime-style duck, right view
+2026-02-23 13:20:47 None
+2026-02-23 13:20:47 ['anime-style duck, right view']
+2026-02-23 13:20:47 tensor([[49406,  6469,   268,  1844,  6910,   267,  1155,  1093, 49407,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:20:47 anime-style duck, overhead view
+2026-02-23 13:20:47 None
+2026-02-23 13:20:47 ['anime-style duck, overhead view']
+2026-02-23 13:20:47 tensor([[49406,  6469,   268,  1844,  6910,   267, 20321,  1093, 49407,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:20:47 anime-style duck, bottom view
+2026-02-23 13:20:47 None
+2026-02-23 13:20:47 ['anime-style duck, bottom view']
+2026-02-23 13:20:47 tensor([[49406,  6469,   268,  1844,  6910,   267,  5931,  1093, 49407,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 13:20:47 phis: [0.0, 45.0, 315.0, 90.0, 270.0, 135.0, 225.0, 180.0]
+2026-02-23 13:20:47 Successfully initialized duck_lava
+2026-02-23 13:20:47 Starting training ^_^
+2026-02-23 13:20:47 Evaluating and saving model, painting iteration #0...

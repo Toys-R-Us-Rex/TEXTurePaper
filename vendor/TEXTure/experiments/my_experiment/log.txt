@@ -1,0 +1,138 @@
+2026-02-23 11:47:02 running xatlas to unwrap UVs for mesh
+2026-02-23 11:47:03 Loaded Mesh, #parameters: 6337536
+2026-02-23 11:47:03 TexturedMeshModel()
+2026-02-23 11:47:03 loaded hugging face access token from ./TOKEN!
+2026-02-23 11:47:03 loading stable diffusion with sd2-community/stable-diffusion-2-depth...
+2026-02-23 11:50:04 	 successfully loaded stable diffusion!
+2026-02-23 11:50:04 A photo of a beach ball, front view
+2026-02-23 11:50:04 None
+2026-02-23 11:50:04 ['A photo of a beach ball, front view']
+2026-02-23 11:50:04 tensor([[49406,   320,  1125,   539,   320,  2117,  1069,   267,  2184,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 11:50:05 A photo of a beach ball, left view
+2026-02-23 11:50:05 None
+2026-02-23 11:50:05 ['A photo of a beach ball, left view']
+2026-02-23 11:50:05 tensor([[49406,   320,  1125,   539,   320,  2117,  1069,   267,  1823,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 11:50:05 A photo of a beach ball, back view
+2026-02-23 11:50:05 None
+2026-02-23 11:50:05 ['A photo of a beach ball, back view']
+2026-02-23 11:50:05 tensor([[49406,   320,  1125,   539,   320,  2117,  1069,   267,   893,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 11:50:05 A photo of a beach ball, right view
+2026-02-23 11:50:05 None
+2026-02-23 11:50:05 ['A photo of a beach ball, right view']
+2026-02-23 11:50:05 tensor([[49406,   320,  1125,   539,   320,  2117,  1069,   267,  1155,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 11:50:05 A photo of a beach ball, overhead view
+2026-02-23 11:50:05 None
+2026-02-23 11:50:05 ['A photo of a beach ball, overhead view']
+2026-02-23 11:50:05 tensor([[49406,   320,  1125,   539,   320,  2117,  1069,   267, 20321,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 11:50:05 A photo of a beach ball, bottom view
+2026-02-23 11:50:05 None
+2026-02-23 11:50:05 ['A photo of a beach ball, bottom view']
+2026-02-23 11:50:05 tensor([[49406,   320,  1125,   539,   320,  2117,  1069,   267,  5931,  1093,
+         49407,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+             0,     0,     0,     0,     0,     0,     0]])
+2026-02-23 11:50:05 phis: [0.0, 45.0, 315.0, 90.0, 270.0, 135.0, 225.0, 180.0]
+2026-02-23 11:50:05 Successfully initialized my_experiment
+2026-02-23 11:50:05 Starting training ^_^
+2026-02-23 11:50:05 Evaluating and saving model, painting iteration #0...
+2026-02-23 11:50:08 Done!
+2026-02-23 11:50:08 --- Painting step #1 ---
+2026-02-23 11:50:08 Painting from theta: 1.0471975803375244, phi: 0.0, radius: 1.5
+2026-02-23 11:50:08 text: A photo of a beach ball, front view
+2026-02-23 11:50:40 Evaluating and saving model, painting iteration #1...
+2026-02-23 11:50:42 Done!
+2026-02-23 11:50:42 --- Painting step #2 ---
+2026-02-23 11:50:42 Painting from theta: 1.0471975803375244, phi: 0.7853981852531433, radius: 1.5
+2026-02-23 11:50:43 text: A photo of a beach ball, left view
+2026-02-23 11:51:12 Evaluating and saving model, painting iteration #2...
+2026-02-23 11:51:14 Done!
+2026-02-23 11:51:14 --- Painting step #3 ---
+2026-02-23 11:51:14 Painting from theta: 1.0471975803375244, phi: 5.497786998748779, radius: 1.5
+2026-02-23 11:51:15 text: A photo of a beach ball, right view
+2026-02-23 11:51:44 Evaluating and saving model, painting iteration #3...
+2026-02-23 11:51:47 Done!
+2026-02-23 11:51:47 --- Painting step #4 ---
+2026-02-23 11:51:47 Painting from theta: 1.0471975803375244, phi: 1.5707963705062866, radius: 1.5
+2026-02-23 11:51:47 text: A photo of a beach ball, left view
+2026-02-23 11:52:17 Evaluating and saving model, painting iteration #4...
+2026-02-23 11:52:19 Done!
+2026-02-23 11:52:19 --- Painting step #5 ---
+2026-02-23 11:52:19 Painting from theta: 1.0471975803375244, phi: 4.71238899230957, radius: 1.5
+2026-02-23 11:52:19 text: A photo of a beach ball, right view
+2026-02-23 11:52:49 Evaluating and saving model, painting iteration #5...
+2026-02-23 11:52:52 Done!
+2026-02-23 11:52:52 --- Painting step #6 ---
+2026-02-23 11:52:52 Painting from theta: 1.0471975803375244, phi: 2.356194496154785, radius: 1.5
+2026-02-23 11:52:52 text: A photo of a beach ball, left view
+2026-02-23 11:53:22 Evaluating and saving model, painting iteration #6...
+2026-02-23 11:53:24 Done!
+2026-02-23 11:53:24 --- Painting step #7 ---
+2026-02-23 11:53:24 Painting from theta: 1.0471975803375244, phi: 3.9269907474517822, radius: 1.5
+2026-02-23 11:53:25 text: A photo of a beach ball, right view
+2026-02-23 11:53:55 Evaluating and saving model, painting iteration #7...
+2026-02-23 11:53:58 Done!
+2026-02-23 11:53:58 --- Painting step #8 ---
+2026-02-23 11:53:58 Painting from theta: 1.0471975803375244, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 11:53:58 text: A photo of a beach ball, back view
+2026-02-23 11:54:30 Evaluating and saving model, painting iteration #8...
+2026-02-23 11:54:32 Done!
+2026-02-23 11:54:32 --- Painting step #9 ---
+2026-02-23 11:54:32 Painting from theta: 0.5235987901687622, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 11:54:33 text: A photo of a beach ball, overhead view
+2026-02-23 11:55:05 Evaluating and saving model, painting iteration #9...
+2026-02-23 11:55:07 Done!
+2026-02-23 11:55:07 --- Painting step #10 ---
+2026-02-23 11:55:07 Painting from theta: 2.6179938316345215, phi: 3.1415927410125732, radius: 1.5
+2026-02-23 11:55:08 text: A photo of a beach ball, bottom view
+2026-02-23 11:55:40 Evaluating and saving model, painting iteration #10...
+2026-02-23 11:55:43 Done!
+2026-02-23 11:55:43 Finished Painting ^_^
+2026-02-23 11:55:43 Saving the last result...
+2026-02-23 11:55:43 Evaluating and saving model, painting iteration #10...
+2026-02-23 11:56:05 Done!
+2026-02-23 11:56:05 Saving mesh to experiments/my_experiment/mesh
+2026-02-23 11:56:06 writing obj mesh to {obj_file}
+2026-02-23 11:56:06 writing vertices {v_np.shape}
+2026-02-23 11:56:06 writing vertices texture coords {vt_np.shape}
+2026-02-23 11:56:06 writing faces {f_np.shape}
+2026-02-23 11:56:06 	Done!
+2026-02-23 11:56:06 	Done!
